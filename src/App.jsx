@@ -1,5 +1,4 @@
 import React from 'react'
-import './index.css'
 import MyButton from './components/button'
 import BlogPostList from './components/bloglist'
 function App() {
