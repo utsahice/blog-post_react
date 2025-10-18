@@ -1,6 +1,6 @@
-import React from "react";
-import MyButton from "./components/button";
-import BlogPostList from "./components/bloglist";
+import React from 'react';
+import MyButton from './components/button';
+import BlogPostList from './components/bloglist';
 function App() {
   return (
     <>
